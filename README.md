@@ -1,4 +1,6 @@
 Project 1:
+World Layoffs Data Cleaning
+
 This project focuses on data cleaning to prepare a messy dataset for accurate and reliable data analysis. Key steps included:
 Removing Duplicates: Ensured unique records by identifying and deleting duplicate rows using ROW_NUMBER.
 Standardizing Data: Enhanced consistency by trimming whitespaces, normalizing industry and country names, and converting dates to a uniform format.
