@@ -2,7 +2,7 @@ Project 1: Layoffs Data Cleaning
 This project focuses on cleaning a messy dataset to ensure accuracy and reliability for analysis. Key steps included:
 
 Key Steps:
-Removing Duplicates:
+Removing Duplicates
 
 Identified duplicates using ROW_NUMBER with PARTITION BY on key columns.
 Deleted duplicate rows after assigning row numbers, ensuring unique records.
