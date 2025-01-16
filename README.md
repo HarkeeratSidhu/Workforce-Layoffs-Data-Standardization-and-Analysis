@@ -1,4 +1,4 @@
-Project 1: Layoffs Data Cleaning
+Project 1: Layoffs Data Clean
 This project focuses on cleaning a messy dataset to ensure accuracy and reliability for analysis. Key steps included:
 
 Key Steps:
